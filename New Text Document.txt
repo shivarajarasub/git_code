@@ -1,0 +1,5 @@
+1.Linux Booting procedure
+2.Logical volume manager
+3.File system management
+4.Networking
+5.Run levels
